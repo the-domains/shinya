@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shinya]]></title>
+        <description><![CDATA[shinya]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 13:33:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shinya B / Artist, Educator, dramaturg / Tokyo, Japan  http://thegrid.io/shinyab]]></title>
+            <description><![CDATA[<h1>Shinya B / Artist, Educator, dramaturg / Tokyo, Japan  http://thegrid.io/shinyab</h1>]]></description>
+            <link>undefinedshinya-b-artist-educator-dramaturg-tokyo-japan-http/index.html</link>
+            <guid isPermaLink="false">5bcbdf23-f8b8-44c3-8928-3a9bfcc02b27</guid>
+            <pubDate>Tue, 22 Dec 2015 13:33:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
