@@ -1,7 +1,7 @@
 name: shinya
 favicon: null
-layout_spectrum: 0.04653212334960699
-typography_spectrum: 0.4051138530485332
+layout_spectrum: 0
+typography_spectrum: 0
 title: Shinya B by Shinya
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5074314612429589
-  lightness: 0.40016874042339623
-  saturation: 0.2970272602979094
-  rhythmicContrast: 0.41787058883346617
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
